@@ -1,0 +1,46 @@
+.ZxXxWb {
+
+    
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    height: 36px;
+    left: 0;
+    padding: 0 16px;
+    right: 0;
+    top: -44px;
+    
+    
+    
+    
+    position: relative;
+    width: 100%;
+    
+
+}
+
+.ZxXxWb .XhfvJd {
+    height: 14px;
+    margin-right: 12px;
+}
+
+.ZxXxWb .L5wZDc {
+    display: block;
+    height: 14px;
+    position: relative;
+    top: 1px;
+    width: 14px;
+}
+
+.ZxXxWb .kHn9Lb {
+    color: #5f6368;
+    font-size: 14px;
+    height: 14px;
+    margin-top: -2px;
+}
+
+
+@media screen and (max-width: 600px) {
+.blank .ZxXxWb {
+    top: -28px;
+}
